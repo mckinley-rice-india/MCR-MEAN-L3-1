@@ -7,7 +7,7 @@
 
 To complete this challenge, you will need to write a  web app, and provide us the source files to be built.
 
-This challenge is expected to take about 4 hours.
+This challenge is expected to take about 2-3 hours.
 
 
 # MEAN Stack Developer Coding Challenge
