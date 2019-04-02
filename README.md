@@ -47,7 +47,10 @@ Developer. Also to familiarise the tools and libraries we will be using.
 ## Task
 
 - Develop a simple chat room that allows multiple people to join, data should persist
+- User can Create room 
+- user can join and leave rooms at any time
 - Caching and optimisations will be a plus
 - Making use of all the technologies at your disposal
 - Leaving implementations open to interpretation as a test for making architectural decisions.
+- It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
 
